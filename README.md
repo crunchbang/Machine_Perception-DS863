@@ -29,6 +29,6 @@
 
 All the code in this repo can be executed and tested with Python 3.x.
 
-Use [Anaconda](https://anaconda.org/) for a hassel-free installation of Python3 & OpenCV3.
+Use [Anaconda](https://anaconda.org/) for a hassle-free installation of Python3 & OpenCV3.
 
 

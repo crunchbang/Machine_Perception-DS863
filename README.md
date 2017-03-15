@@ -1,5 +1,5 @@
 # Machine Perception (DS863-MP)
--------
+
 
 ##### Taught at IIIT-B by Prof. Dinesh Babu Jayagopi
 
